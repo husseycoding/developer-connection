@@ -1,4 +1,4 @@
 # Developer Connection
-A place to report any issues, or make feature requests for Developer Connection, the Magento project marketplace.
+The place to make feature requests and reports bugs for Developer Connection, the Magento project marketplace.
 
 developerconnection.co.uk
